@@ -1,0 +1,12 @@
+hello
+cat
+dog
+bye
+friend
+good
+bad
+morning
+night
+house
+food
+water
