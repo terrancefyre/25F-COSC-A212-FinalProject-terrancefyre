@@ -1,0 +1,12 @@
+bonjour
+chat
+chien
+aurevoir
+ami
+bon
+mauvais
+matin
+nuit
+maison
+nourriture
+eau
